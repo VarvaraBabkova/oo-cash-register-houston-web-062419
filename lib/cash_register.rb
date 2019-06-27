@@ -1,4 +1,4 @@
-class cash_register_spec
+class cash_register
 
   attr_accessor :total
 
